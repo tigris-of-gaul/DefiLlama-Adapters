@@ -15,6 +15,11 @@ const config = {
       '0x49DF1fe24cAf1a7dcBB2E2b1793b93b04eDb62bF', // Tarot Jupiter
     ]
   },
+  arbitrum: {
+    factories: [
+      '0x2217AEC3440E8FD6d49A118B1502e539f88Dba55', // Tarot Galahad
+    ]
+  },
 }
 
 module.exports = {}

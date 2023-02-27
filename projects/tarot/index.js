@@ -19,6 +19,7 @@ const config = {
     factories: [
       '0x2217AEC3440E8FD6d49A118B1502e539f88Dba55', // Tarot Galahad
       '0x1bbD5637421a83b00C5Cd549B9C3721B28553F80', // Tarot Saurian
+      '0x4B6daE049A35196A773028B2E835CCcCe9DD4723', // Tarot Ulysses
     ]
   },
 }

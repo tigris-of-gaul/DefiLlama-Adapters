@@ -20,7 +20,18 @@ const config = {
       '0x2217AEC3440E8FD6d49A118B1502e539f88Dba55', // Tarot Galahad
       '0x1bbD5637421a83b00C5Cd549B9C3721B28553F80', // Tarot Saurian
       '0x4B6daE049A35196A773028B2E835CCcCe9DD4723', // Tarot Ulysses
-      '0x8ceC723D81273b9Ab1fc70441382701dFA2fe526', // Tarot Neptune
+    ]
+  },
+  bsc: {
+    factories: [
+      '0x2217AEC3440E8FD6d49A118B1502e539f88Dba55', // Tarot Bermuda
+      '0xC20099a3F0728634C1136489074508be7B406d3a', // Tarot Palermo
+    ]
+  },
+  ethereum: {
+    factories: [
+      '0x1CAfcB9f3B5A152b1553bC2c688BA6a18054b653', // Tarot Eleusis
+      '0x4B6daE049A35196A773028B2E835CCcCe9DD4723', // Tarot Equinox
     ]
   },
 }
